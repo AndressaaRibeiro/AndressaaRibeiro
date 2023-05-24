@@ -1,16 +1,16 @@
 ### Hi there, bienvenue! 👋
 
 
+Developpeuse FullStack 💻
 
+📚 💻 I’m currently studying at Wild Code School - Strasbourg.
 
-📚 I’m currently studying at Wild Code School - Strasbourg.
 </br>
-💻 I’m currently learning PHP
-</br>
 
 
 
-PHP, Symfony, SQL, HTML, CSS, JavaScript.
+
+PHP, Symfony, SQL, HTML, CSS, JavaScript, Git, Doctrine.
 
 </br>
 </br>
