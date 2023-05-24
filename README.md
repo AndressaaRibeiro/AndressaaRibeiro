@@ -1,7 +1,7 @@
 ### Hi there, bienvenue! 👋
 
 
-Developpeuse FullStack 💻
+Developpeuse Full-Stack 💻
 
 📚 💻 I’m currently studying at Wild Code School - Strasbourg.
 
