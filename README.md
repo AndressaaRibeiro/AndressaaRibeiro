@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @AndressaaRibeiro<br>👀 I’m interested in developing my skills in coding and web creations.<br>💞️ I’m looking to collaborate on différent projects that can boost my web culture.<br>📫 How to reach me ? You can use my LinkedIn : Andressa Ribeiro
+👋 Hi, I’m @AndressaaRibeiro<br>👀 I’m interested in developing my skills in coding and web creations.<br>📫 How to reach me ? You can use my LinkedIn : Andressa Ribeiro
 
 
 ## 🌐 Socials:
